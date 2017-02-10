@@ -16,7 +16,7 @@ Fork and clone this repo before step 1.
  For the pets.html view you're going to need to make an api call to http://practiceapi.devmounta.in/pets to get all the pets.
 
  ``5``
- Pet needs to be a directive.  The template is provided for you in pet-tmpl.html.
+ Pet needs to be a directive. The template is provided for you in pet-tmpl.html.
  It needs to have an isolate scope and take in the pet and show the bio details.
  Clicking on the title will navigate to pet bio.
  Clicking on the image will collapse the image and show a link that says "show image" instead.  Click on "show image" will hide the "show image" link and show the actual image.
